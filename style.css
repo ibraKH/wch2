@@ -242,7 +242,7 @@ body{
     height: 100px;
     top: -25px;
     z-index: 4;
-    background: url("/images/lines.png");
+    background: url("images/lines.png");
     background-size: cover;
 }
 .cardContainer{
